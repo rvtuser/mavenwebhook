@@ -18,6 +18,7 @@
 	</properties>	
 	<dependencies>	
 	<!-- Unit Test -->
+	<!-- RVT Unit Test2 -->
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
